@@ -9,3 +9,8 @@ body {
 ul {
     background-color: rgb(194, 195, 185);
 }
+
+p {
+    background-color: rgb(232, 178, 90);
+    padding: 20px;
+}
