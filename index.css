@@ -9,3 +9,8 @@ body {
 ul {
     background-color: rgb(194, 195, 185);
 }
+
+li {
+    border: 2px red solid;
+    ;
+}
